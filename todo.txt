@@ -1,0 +1,7 @@
+TODO
+
+[ ]  reduce size over time due to the dirt being fuel.
+[ ]  increase size and oversize when hit dirt
+[ ]  fuel particles
+[ ]  collision with level tiles
+
